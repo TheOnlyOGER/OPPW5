@@ -1,0 +1,3 @@
+Playing audio files with the mixer somehow crashes the game. 
+Each .exe reduces the amount of mixer.Sound() function usage to reduce crashing
+Trying to fix it right now is too much of a hassle. I'll work on it once I begin polishing (if that ever happens)
